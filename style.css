@@ -1,0 +1,59 @@
+html {
+    font-family: "Concert One", serif;
+}
+
+body {
+    margin: 0;
+    background-color: #fff;
+}
+
+header {
+    background-color: #364552;
+    margin: 1rem 0;
+    border-radius: 1.5rem;
+    color: white;
+    padding: 2rem 1rem;
+    border-style: solid;
+    border-color: #efefaa;
+    border-width: 3px;
+}
+header h1 {
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 5px 5px 5px blueviolet ;
+}
+
+.centro {
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 35px;
+    text-shadow: 3px 3px 3px violet;
+}
+
+section article {
+    background-color: #dccbcd;
+    margin: 1rem 0;
+    border-radius: 1.5rem;
+    padding: 0.25rem 0;
+    border-style: solid;
+    border-color: #efefaa;
+    border-width: 3px;
+}
+
+p {
+    color: #2b3bc2;
+    font-size: 18px;
+}
+
+img:hover {
+    transition: box-shadow 0.7s ease;
+    box-shadow: 0 1rem 8rem rgb(140, 8, 205);
+    cursor: pointer;
+    border-style: inset;
+    border-color: #fb00ff;
+    border-width: 2.5px;
+}
+
